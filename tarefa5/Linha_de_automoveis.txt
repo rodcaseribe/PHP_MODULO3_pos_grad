@@ -1,0 +1,8 @@
+Linha de automóveis:
+
+Não utilizaria operadores de resolução de escopo, somente usaria
+se meu código fosse pequeno, em projetos muitos grande eu me perderia
+com facilidade, nesse caso criaria uma pasta classes e utilizaria o
+padrão MVC para o tipo de projeto, pois futuramente apesar de demorar um pouco 
+mais para fazer, em um futuro eu entenderia muito melhor e muito mais rápido o que
+já fiz.

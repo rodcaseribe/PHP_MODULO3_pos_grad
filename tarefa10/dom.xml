@@ -1,0 +1,36 @@
+<pizza>
+        <sabores category="sabor">
+                <tipo lang="pt-br">Brasileira</tipo>
+                <autor> Rodolfo C.R</autor>
+                <ingrediente1>Calabresa</ingrediente1>
+                <ingrediente2>salada</ingrediente2>
+                <ingrediente3>presunto</ingrediente3>
+                <ingrediente4>queijo</ingrediente4>
+                <ingrediente5>molho de tomate</ingrediente5>
+                <tempero>salada</tempero>
+                <preco> 40.00</preco>
+        </sabores>
+        <sabores category="sabor">
+                <tipo lang="pt-br">Portuguesa</tipo>
+                <ingrediente1>Calabresa</ingrediente1>
+                <ingrediente2>presunto</ingrediente2>
+                <ingrediente3>queijo</ingrediente3>
+                <ingrediente4>champingnon</ingrediente4>
+                <ingrediente5>molho branco</ingrediente5>
+                <autor> Rodolfo C.R</autor>
+                <tempero>pizza</tempero>
+                <preco> 37.00</preco>
+        </sabores>
+        <sabores category="sabor">
+                <tipo lang="pt-br">Italiana</tipo>
+                <ingrediente1>presunto</ingrediente1>
+                <ingrediente2>queijo</ingrediente2>
+                <ingrediente3>salada</ingrediente3>
+                <ingrediente4>massa italiana</ingrediente4>
+                <ingrediente5>molho vermelho</ingrediente5>
+                <autor> Rodolfo C.R</autor>
+                <tempero>massa</tempero>
+                <preco> 44.00</preco>
+        </sabores>
+
+</pizza>

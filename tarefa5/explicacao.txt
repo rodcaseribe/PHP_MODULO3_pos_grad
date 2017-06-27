@@ -1,0 +1,4 @@
+Operadores de resolução servem para fazer chamadas de funções
+por texto, sendo uma prática que facilita o código, porém não é
+recomendado por não ficar muito organizado e o programador acaba
+por se perder por essas chamadas.

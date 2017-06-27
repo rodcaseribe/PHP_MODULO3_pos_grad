@@ -1,0 +1,35 @@
+mysql -u root -prodolfo
+show tables;
+create database 'pizzaria';
+use pizzaria;
+
+
+
+
+CREATE TABLE `CLIENTE`(
+`CODCLIENTE` int(11) NOT NULL auto_increment,
+`NOME` VARCHAR (60) NOT NULL,
+`SOBRENOME` VARCHAR (60) NOT NULL,
+`PREFERENCIA` VARCHAR (60) NOT NULL,
+`TELEFONE` INTEGER (20) NOT NULL,
+SEXO CHAR(1) CHECK(SEXO IN ("M", "F")),
+`BAIRRO` VARCHAR (30),
+`RUA` VARCHAR (30),
+`CIDADE` VARCHAR(50) NOT NULL,
+CLIENTE_ANTIGO CHAR(01) CHECK (CLIENTE_ANTIGO IN ("S", "N")),
+PRIMARY KEY (CODCLIENTE)
+);
+
+INSERT INTO `CLIENTE` VALUES (1,"rodolfo","casemiro","americana","123456","M","jd Palmeiras","rua jose inacio","SAO CARLOS","N");
+INSERT INTO `CLIENTE` VALUES (2,"rodrigo","casemiro","pizza","2134123","M","jd Palmeiras","rua jose inacio","SAO CARLOS","N");
+INSERT INTO `CLIENTE` VALUES (3,"thayane","casemiro","pizza","132412323","F","jd Palmeiras","rua jose bauru","BAURU","N");
+
+select * from CLIENTE LIMIT 3;
+show tables;
+create view teste_view as select * from CLIENTE;
+show tables;
+create view nova as select NOME, SOBRENOME from CLIENTE;
+show tables;
+select * from nova LIMIT 3;
+create or replace view nova (PAIS) as select NOME FROM CLIENTE;
+select * from nova LIMIT 3;

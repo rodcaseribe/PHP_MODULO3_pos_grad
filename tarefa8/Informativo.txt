@@ -1,0 +1,8 @@
+Modelagem e criação do Banco de Dados Relacional e estruturado
+a partir da modelagem como segue na imagem feita, tabelas foram criados
+de forma simples, utilizei a estrutura de comandos e base Mysql no qual 
+tenho maior afinidade.
+
+As estruturas das tabelas podem ser melhoradas assim como a modelagem, espero
+no curso aprender mais ainda sobre o assunto no qual já vi na faculdade.
+
