@@ -1,0 +1,1 @@
+cat codigo | cut -d ' ' -f2  | sed 's/^/\'"'"','"'"'/' |  sed 's/ /\n/g' | tr [:space:] ' ' |  sed 's/ //g'

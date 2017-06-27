@@ -1,0 +1,19 @@
+Tarefa da semana
+
+Considere a função mostrada a seguir e proponha um script em PHP que receba o endereço de uma dada residência e retorne o horário do por-do-Sol.
+
+ 
+
+function getCoordinates($address){
+
+$address = str_replace(" ", "+", $address);
+
+$url="http://maps.google.com/maps/api/geocode/json?sensor=false&address=$address";
+
+$response = file_get_contents($url);
+
+$json = json_decode($response,TRUE);
+
+return ($json['results'][0]['geometry']['location']['lat'].",".$json['results'][0]['geometry']['location']['lng']);
+
+}

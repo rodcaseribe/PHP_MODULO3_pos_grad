@@ -1,0 +1,1003 @@
+ 1163  ifconfig
+ 1164  ping 8.8.8.8
+ 1165  ifconfig
+ 1166  ifconfig wlan0 down
+ 1167  ifconfig wlan0 up
+ 1168  ifconfig
+ 1169  init 0
+ 1170  ping 8.8..88
+ 1171  ping 8.8.8.8
+ 1172  history
+ 1173  ping 10.0.0.252
+ 1174  ping 10.0.0.253
+ 1175  ping 10.0.0.16
+ 1176  ping 10.0.0.15
+ 1177  ping 10.0.0.14
+ 1178  ping 10.0.0.13
+ 1179  ping 10.0.0.12
+ 1180  ping 10.0.0.11
+ 1181  ping 10.0.0.16
+ 1182  ping 10.0.0.12
+ 1183  ssh rcasemiro@10.0.0.1
+ 1184  exit
+ 1185  ifconfig eth0 187.72.153.113 netmask 255.255.255.240
+ 1186  ping 8.8.8.8
+ 1187  ifconfig
+ 1188  ping 8.8.8.8
+ 1189  ifconfig
+ 1190  ifconfig eth0 187.72.153.113 netmask 255.255.255.240
+ 1191  ping 8.8.8.8
+ 1192  ifconfig eth0 up
+ 1193  ifconfig
+ 1194  ifconfig eth0 up
+ 1195  init 0
+ 1196  ifconfig
+ 1197  ping 10.0.0.16
+ 1198  ping 8.8.8.8
+ 1199  ping facebook.com
+ 1200  ping 8.8.8.8
+ 1201  ifconfig
+ 1202  ssh rcasemiro@10.0.0.1
+ 1203  exit
+ 1204  ssh rcasemiro@ftprc.asser.com.br
+ 1205  ssh tircasser@ftprc.asser.com.br
+ 1206  clear
+ 1207  cd /var/www/html
+ 1208  ls
+ 1209  mkdir uniara
+ 1210  cd uniara/
+ 1211  ls
+ 1212  vi test.php
+ 1213  service apache2 restart
+ 1214  vi test.php
+ 1215  vi sort_rsort.php
+ 1216  rm sort_rsort.php 
+ 1217  vi sort_rsort.php
+ 1218  ls
+ 1219  mv test.php foreach_array_walk.php
+ 1220  ls -la
+ 1221  cd ..
+ 1222  rar uniara
+ 1223  apt-get install rar
+ 1224  rar uniara
+ 1225  unzip uniara.zip uniara
+ 1226  apt-get instal zip
+ 1227  apt-get install zip
+ 1228  zip uniara.zip uniara
+ 1229  ls
+ 1230  unzip -x uniara.zip 
+ 1231  ls
+ 1232  cd uniara/
+ 1233  ls
+ 1234  rm uniara.zip
+ 1235  rm -rf uniara.zip
+ 1236  zip -r uniara2.zip uniara
+ 1237  zip -r uniara.zip uniara
+ 1238  ls
+ 1239  cd ..
+ 1240  zip -r uniara2.zip uniara
+ 1241  unzip uniara2.zip
+ 1242  ping 8.8.8.8
+ 1243  ping virtual.uniara.com.br
+ 1244  exit
+ 1245  ssh rcasemiro@unicepcampus1.ddns.net
+ 1246  ping 8.8.8.8
+ 1247  ssh rcasemiro@10.0.0.1
+ 1248  ssh rcasemiro@10.0.0.1
+ 1249  ping br.jobdiagnosis.com/
+ 1250  ping br.jobdiagnosis.com
+ 1251  ifconfig
+ 1252  ifconfig eth0 up
+ 1253  reboot
+ 1254  vi jj
+ 1255  ping br.jobdiagnosis.com
+ 1256  ssh rcasemiro@10.0.0.1
+ 1257  clear
+ 1258  ping 8.8.8.8
+ 1259  ifconfig
+ 1260  ssh rcasemiro@10.0.0.1
+ 1261  ssh tircasser@ftprc.asser.com.br
+ 1262  ssh rcasemiro@10.0.0.1
+ 1263  ping 8.8.8.8
+ 1264  su root
+ 1265  clear
+ 1266  ssh rcasemiro@10.0.0.2]
+ 1267  ssh rcasemiro@10.0.0.2
+ 1268  nmap 10.0.1.18 -p22
+ 1269  nmap 10.0.1.18 -p21
+ 1270  nmap 10.0.1.18 
+ 1271  ssh rcasemiro@10.0.0.2
+ 1272  ssh rcasemiro@10.0.0.1
+ 1273  nmap 10.0.1.18
+ 1274  ssh rcasemiro@10.0.0.1
+ 1275  ssh rcasemiro@10.0.0.2
+ 1276  vi /etc/apache2/sites-available/000-default.conf 
+ 1277  ssh tircasser@ftprcs.asser.com.br
+ 1278  ssh tircasser@ftprc.asser.com.br
+ 1279  su root
+ 1280  ssh tircasser@ftprc.asser.com.br
+ 1281  ssh rcasemiro@10.0.0.2
+ 1282  ssh rcasemiro@10.0.0.1
+ 1283  ssh tircasser@ftprc.asser.com.br
+ 1284  ssh rcasemiro@10.0.0.2
+ 1285  nmap 10.0.1.18
+ 1286  ssh rcasemiro@10.0.0.2
+ 1287  ssh rcasemiro@10.0.1.18
+ 1288  ls
+ 1289  cd /
+ 1290  ls
+ 1291  cd ~
+ 1292  ls
+ 1293  vi ff
+ 1294  ssh tircasser@ftprc.asser.com.br
+ 1295  ssh rcasemiro@ftp.unicep.com.br
+ 1296  ping 8.8.8.8
+ 1297  cd /var/www/
+ 1298  cd html/
+ 1299  ls
+ 1300  mkdir uniara7
+ 1301  cd uniara7/
+ 1302  vi index.php
+ 1303  vi index2.php
+ 1304  vi email.php
+ 1305  cd /home/rodolfo/Downloads/
+ 1306  ls
+ 1307  cp uniara7.pdf /var/www/html/uniara7/
+ 1308  cd /var/www/html/uniara7/
+ 1309  ls
+ 1310  rm index.php 
+ 1311  rm index2.php 
+ 1312  ls
+ 1313  vi listagem.php
+ 1314  vi email.php 
+ 1315  vi listagem.php
+ 1316  vi email.php 
+ 1317  vi listagem.php
+ 1318  vi email.php 
+ 1319  vi listagem.php
+ 1320  vi email.php 
+ 1321  vi listagem.php
+ 1322  vi email.php 
+ 1323  vi listagem.php
+ 1324  vi email.php 
+ 1325  vi listagem.php
+ 1326  vi email.php 
+ 1327  vi listagem.php
+ 1328  ping 8.8.8.8
+ 1329  ifconfig
+ 1330  init 0
+ 1331  clear
+ 1332  ssh rcasemiro@ftprcs.asser.com.br
+ 1333  ssh tircasser@ftprc.asser.com.br
+ 1334  ping 8.8.8.8
+ 1335  ssh tircasser@ftprc.asser.com.br
+ 1336  ssh tircasser@ftprc.asser.com.br
+ 1337  exit
+ 1338  ping 8.8.8.8
+ 1339  exit
+ 1340  ssh tircasser@
+ 1341  ssh tircasser@ftprc.asser.com.br
+ 1342  ssh rcasemiro@10.0.0.1
+ 1343  su root
+ 1344  ping 8.8.8.8
+ 1345  ifconfig
+ 1346  ifconfig wlan0 192.168.1.9 netmask 255.255.255.0
+ 1347  ping 8.8.8.8
+ 1348  ifconfig wlan0
+ 1349  ifconfig wlan0 192.168.0.9 netmask 255.255.255.0
+ 1350  ping 8.8.8.8
+ 1351  ifconfig wlan0
+ 1352  ifconfig wlan0 192.168.0.9 netmask 255.255.255.0
+ 1353  ping 8.8.8.8
+ 1354  ifconfig wlan0 down
+ 1355  ifconfig
+ 1356  ping 8.8.8.8
+ 1357  ifconfig
+ 1358  ifconfig wlan0 192.168.0.9 netmask 255.255.255.0
+ 1359  ping 8.8.8.8
+ 1360  ifconfig
+ 1361  ping 8.8.8.8
+ 1362  ifconfig wlan0 192.168.1.19 netmask 255.255.255.0
+ 1363  ping 8.8.8.8
+ 1364  init 0
+ 1365  ping 8.8.8.8
+ 1366  ifconfig
+ 1367  exit
+ 1368  ssh tircasser@ftprc.asser.com.br
+ 1369  vi /etc/dhcp/dhclient.conf 
+ 1370  ssh tircasser@ftprcs.asser.com.br
+ 1371  ssh tircasser@ftprc.asser.com.br
+ 1372  ping ftpec.asser.com.br
+ 1373  ping ftprc.asser.com.br
+ 1374  ssh tircasser@ftprc.asser.com.br
+ 1375  ssh rcasemiro@10.0.0.1]
+ 1376  ssh rcasemiro@10.0.0.1
+ 1377  ping unicep.com.br
+ 1378  ifconfig
+ 1379  ifconfig eth0 up
+ 1380  ifconfig
+ 1381  init 0
+ 1382  ping 8.8.8.8
+ 1383  whaomi
+ 1384  whoami
+ 1385  ping 10.0.0.1
+ 1386  ssh tircasser@ftprc.asser.com.br
+ 1387  ping 10.0.0.1
+ 1388  ping 8.8.8.8
+ 1389  ssh rcasemiro@10.0.0.1
+ 1390  ifconfig
+ 1391  ifconfig eth0 192.168.1.88 netmask 255.255.255.0
+ 1392  ifconfig eth0 192.168.0.88 netmask 255.255.255.0
+ 1393  ifconfig
+ 1394  ping 8.8.8.8
+ 1395  whoami
+ 1396  ping 8.8.8.8
+ 1397  ifconfig
+ 1398  ping 8.8.8.8
+ 1399  ifconfig
+ 1400  ping 8.8.8.8
+ 1401  ping 10.0.1.18
+ 1402  ping 8.8.8.8
+ 1403  ping google.com
+ 1404  ifconfig
+ 1405  ping google.com
+ 1406  ifconfig
+ 1407  ping google.com
+ 1408  ifconfig
+ 1409  ifconfig eth0 192.168.0.88 netmask 255.255.255.0
+ 1410  ping 192.168.0.1
+ 1411  ifconfig
+ 1412  ping 8.8.8.8
+ 1413  ifconfig
+ 1414  ping 192.168.0.1
+ 1415  ifconfig eth0 192.168.0.88 netmask 255.255.255.0
+ 1416  ping 192.168.0.1
+ 1417  ifconfig eth0 192.168.0.88 netmask 255.255.255.0
+ 1418  ping 192.168.0.1
+ 1419  ifconfig eth0 192.168.0.88 netmask 255.255.255.0
+ 1420  ping 192.168.0.1
+ 1421  ifconfig
+ 1422  ping 192.168.0.1
+ 1423  ifconfig
+ 1424  ifconfig eth0 192.168.0.88 netmask 255.255.255.0
+ 1425  ping 192.168.0.1
+ 1426  ifconfig
+ 1427  ping 192.168.0.1
+ 1428  ifconfig
+ 1429  ping 8.8.8.8
+ 1430  ifconfig
+ 1431  ifconfig eth0 192.168.0.88 netmask 255.255.255.0
+ 1432  ping 192.168.0.1
+ 1433  ifconfig
+ 1434  ping 8.8.8.8
+ 1435  ifconfig eth0 192.168.0.88 netmask 255.255.255.0
+ 1436  ping 192.168.0.1
+ 1437  ping 8.8.8.8
+ 1438  ifconfig
+ 1439  ifconfig eth0 192.168.0.88 netmask 255.255.255.0
+ 1440  ping 192.168.0.1
+ 1441  ifconfig
+ 1442  ifconfig eth0 192.168.0.88 netmask 255.255.255.0
+ 1443  ping 192.168.0.1
+ 1444  ifconfig
+ 1445  ifconfig eth0 192.168.0.88 netmask 255.255.255.0
+ 1446  ping 192.168.0.1
+ 1447  ssh rcasemiro@ftprc.asser.com.br
+ 1448  ifconfig
+ 1449  ping 8.8.8.8
+ 1450  ifconfig
+ 1451  ssh tircasser@ftprc.asser.com.br
+ 1452  ping 8.8.8.8
+ 1453  ssh rcasemiro@10.0.0.1
+ 1454  ping 8.8.8.8
+ 1455  clear
+ 1456  ssh rcasemiro@unicepcampus1.ddns.net
+ 1457  ping unicepcampus1.ddns.net
+ 1458  ping 92.242.140.6
+ 1459  ping unicepcampus1.ddns.net
+ 1460  ping 177.34.169.198
+ 1461  ping unicepcampus1.ddns.net
+ 1462  ssh rcasemiro@177.34.169.198]
+ 1463  ssh rcasemiro@177.34.169.198
+ 1464  ping unicepcampus1.ddns.net
+ 1465  ssh rcasemiro@187.39.121.14
+ 1466  ping unicepcampus1.ddns.net
+ 1467  ssh rcasemiro@unicepcampus1.ddns.net
+ 1468  ssh rcasemiro@10.0.0.2
+ 1469  ping 10.0.0.42
+ 1470  ls
+ 1471  ssh rcasemiro@10.0.0.2
+ 1472  ssh tircasser@ftprc.asser.com.br
+ 1473  df -h
+ 1474  cd /media/
+ 1475  ls
+ 1476  mkdir pendrive
+ 1477  cd ..
+ 1478  mount /dev/sdb /media/pendrive/
+ 1479  mount -t /dev/sdb /media/pendrive/
+ 1480  mount -t "extfat" /dev/sdb /media/pendrive/
+ 1481  mount -t "exfat" /dev/sdb /media/pendrive/
+ 1482  mount -t exfat /dev/sdb /media/pendrive/
+ 1483  mount -t "exfat" -o "uhelper=udisks2,nodev,nosuid,uid=1000,gid=1000,iocharset=utf8,namecase=0,errors=remount-ro,umask=0077" "/dev/sdb" "/media/rodolfo/EE2D-2055"
+ 1484  mount -t "exfat" -o "uhelper=udisks2,nodev,nosuid,uid=1000,gid=1000,iocharset=utf8,namecase=0,errors=remount-ro,umask=0077" "/dev/sdb" "/media/pendrive"
+ 1485  mkdir 777 /media/pendrive/
+ 1486  mkdir 777 -R /media/pendrive/
+ 1487  chmod 777 -R /media/pendrive/
+ 1488  mount -t "exfat" -o "uhelper=udisks2,nodev,nosuid,uid=1000,gid=1000,iocharset=utf8,namecase=0,errors=remount-ro,umask=0077" "/dev/sdb" "/media/pendrive"
+ 1489  mount -t exfat -o "uhelper=udisks2,nodev,nosuid,uid=1000,gid=1000,iocharset=utf8,namecase=0,errors=remount-ro,umask=0077" "/dev/sdb" "/media/pendrive"
+ 1490  mount -t 'exfat' /dev/sdb /media/pendrive/
+ 1491  sudo mount.exfat /dev/sdb /media/pendrive/
+ 1492  fdisk -l /dev/sdb
+ 1493  sudo mount.exfat /dev/sdb /media/pendrive/
+ 1494  fsformat /dev/sdb
+ 1495  apt-get install dsformat
+ 1496  apt-get install fsformat
+ 1497  apt-get install util-linux
+ 1498  sudo apt-get install fuse-exfat
+ 1499  apt-get install exfat-utils
+ 1500  fsformat /dev/sdb
+ 1501  apt-get install fdformat
+ 1502  sudo apt-add-repository ppa:relan/exfat
+ 1503  sudo apt-get install fuse
+ 1504  sudo apt-get install exfat-fuse
+ 1505  sudo apt-get install exfat-utils
+ 1506  sudo blkid
+ 1507  mformat /dev/sdb
+ 1508  mkfs.extfat /dev/sdb
+ 1509  mkfs.vfat /dev/sdb
+ 1510  mkfs.vfat -I /dev/sdb
+ 1511  mount /dev/sdb /media/pendrive/
+ 1512  cd /media/pendrive/
+ 1513  ls
+ 1514  ls -la
+ 1515  umonut /dev/sdb
+ 1516  umount /dev/sdb
+ 1517  cd /
+ 1518  umount /media/sdb
+ 1519  umount /media/pendrive 
+ 1520  ifconfig
+ 1521  ~ifconfig eth0 up
+ 1522  ifconfig eth0 up
+ 1523  service networking restart
+ 1524  service networking status
+ 1525  init 0
+ 1526  ifconfig eth0 10.10.0.77 netmask 255.255.255.0
+ 1527  ifconfig
+ 1528  nmap 10.10.0.207
+ 1529  ifconfig eth0 10.10.0.77 netmask 255.255.255.0
+ 1530  nmap 10.10.0.0.207
+ 1531  nmap 10.10.0.207
+ 1532  nmap 10.10.0.0/23
+ 1533  ifconfig eth0 10.10.0.77 netmask 255.255.255.0
+ 1534  nmap 10.10.0.0/23
+ 1535  nmap 10.10.0.0/24
+ 1536  ifconfig eth0 10.10.0.77 netmask 255.255.255.0
+ 1537  nmap 10.10.0.0/24
+ 1538  ifconfig eth0 10.10.0.77 netmask 255.255.255.0
+ 1539  nmap 10.10.0.0/24
+ 1540  ifconfig eth0 10.10.0.77 netmask 255.255.255.0
+ 1541  nmap 10.10.0.0/24
+ 1542  ifconfig
+ 1543  service networking restart
+ 1544  ifconfig
+ 1545  init 0
+ 1546  ifconfig
+ 1547  ifconfig eth0 10.10.0.77 netmask 255.255.255.0
+ 1548  nmap 10.10.0.0/24
+ 1549  locate guiga
+ 1550  cat /root/guiga
+ 1551  cat /home/rodolfo/guiga
+ 1552  cd /home/rodolfo
+ 1553  ls
+ 1554  cat peneira 
+ 1555  clear
+ 1556  ls
+ 1557  cat shell.sh 
+ 1558  curl https://www.facebook.com/notes/the-palace-eventos/sua-lua-de-mel-em-paris-declara%C3%A7%C3%A3o-pamela-risardi-francelin-e-guilherme-antonio-/1253835651299812 | grep -in likecount | awk '{print $11}' | cut -d ':' -f 23 | cut -d ',' -f 1
+ 1559  cat shell.sh 
+ 1560  curl https://www.facebook.com/notes/the-palace-eventos/sua-lua-de-mel-em-paris-declara%C3%A7%C3%A3o-camila-florencio-e-rodrigo-pereira-lopes/1253826184634092 | grep -in likecount | awk '{print $11}' | cut -d ':' -f 23 | cut -d ',' -f 1 
+ 1561  curl https://www.facebook.com/notes/the-palace-eventos/sua-lua-de-mel-em-paris-declara%C3%A7%C3%A3o-camila-florencio-e-rodrigo-pereira-lopes/1253826184634092 | grep -in likecount | awk '{print $11}' | cut -d ':' -f 23 | cut -d ',' -f 1 >lkj
+ 1562  cat lkj 
+ 1563  curl https://www.facebook.com/rafael890hg
+ 1564  curl https://www.facebook.com/rafael890hg | grep img
+ 1565  curl https://www.facebook.com/rafael890hg | grep img src
+ 1566  curl https://www.facebook.com/rafael890hg | grep src
+ 1567  curl https://www.facebook.com/rafael890hg | grep png
+ 1568  curl https://www.facebook.com/rafael890hg | grep curtidas
+ 1569  curl https://www.facebook.com/rafael890hg | grep 8867
+ 1570  clear
+ 1571  curl https://www.facebook.com/lenonleite?fref=ts | grep scontent
+ 1572  curl https://www.facebook.com/lenonleite?fref=ts | grep 56C
+ 1573  curl https://www.facebook.com/lenonleite?fref=ts | grep https://scontent.fsdu2-1.fna.fbcdn.net
+ 1574  curl https://www.facebook.com/lenonleite?fref=ts | grep https://scontent.fsdu2-1.fna.fbcdn.net > lenonll
+ 1575  gedit lenonll 
+ 1576  curl https://www.facebook.com/lenonleite?fref=ts | sed -n '/https://scontent.fsdu2-1.fna.fbcdn.net/p' 
+ 1577  curl https://www.facebook.com/lenonleite?fref=ts | sed -n '/png/p'
+ 1578  curl https://www.facebook.com/lenonleite?fref=ts | grep https://scontent.fsdu2-1.fna.fbcdn.net | awk '{print $11}'
+ 1579  curl https://www.facebook.com/lenonleite?fref=ts | grep https://scontent.fsdu2-1.fna.fbcdn.net | awk '{print $7}'
+ 1580  curl https://www.facebook.com/lenonleite?fref=ts | grep -n ^ | grep https://scontent.fsdu2-1.fna.fbcdn.net
+ 1581  curl https://www.facebook.com/lenonleite?fref=ts | grep https://scontent.fsdu2-1.fna.fbcdn.net | awk '{print $6}'
+ 1582  gedit lenonll 
+ 1583  curl https://www.facebook.com/lenonleite?fref=ts | grep https://scontent.fsdu2-1.fna.fbcdn.net | awk '{print $5}'
+ 1584  curl https://www.facebook.com/lenonleite?fref=ts | grep https://scontent.fsdu2-1.fna.fbcdn.net | awk '{print $4}'
+ 1585  curl https://www.facebook.com/lenonleite?fref=ts | grep https://scontent.fsdu2-1.fna.fbcdn.net | awk '{print $2}'
+ 1586  curl https://www.facebook.com/lenonleite?fref=ts | grep https://scontent.fsdu2-1.fna.fbcdn.net | awk '{print $2}' | grep 56C
+ 1587  curl https://www.facebook.com/lenonleite?fref=ts | grep https://scontent.fsdu2-1.fna.fbcdn.net | awk '{print $3}' | grep 56C
+ 1588  curl https://www.facebook.com/lenonleite?fref=ts | grep https://scontent.fsdu2-1.fna.fbcdn.net | awk '{print $1}' | grep 56C
+ 1589  curl https://www.facebook.com/lenonleite?fref=ts | grep https://scontent.fsdu2-1.fna.fbcdn.net | awk '{print $0}' | grep 56C
+ 1590  curl https://www.facebook.com/lenonleite?fref=ts | xargs | grep https://scontent.fsdu2-1.fna.fbcdn.net | 
+ 1591  curl https://www.facebook.com/lenonleite?fref=ts | xargs | grep https://scontent.fsdu2-1.fna.fbcdn.net 
+ 1592  curl https://www.facebook.com/lenonleite?fref=ts | xargs | grep 56C
+ 1593  curl https://www.facebook.com/lenonleite?fref=ts | xargs | sed -n '56C/p'
+ 1594  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g'
+ 1595  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g' | grep 56C
+ 1596  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g' | grep 56C > foto
+ 1597  cat foto 
+ 1598  vi shell2.sh
+ 1599  curl http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp&image.x=49&image.y=8 | grep Centenário
+ 1600  curl http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp&image.x=49&image.y=8 | grep Cente
+ 1601  curl http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp&image.x=49&image.y=8 | grep Rubens
+ 1602  curl http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp&image.x=49&image.y=8 | sed 's/ /\n/g' | grep Rubens
+ 1603  curl http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp&image.x=49&image.y=8 | sed 's/ /\n/g' | grep Rubens > rubens
+ 1604  cat rubens 
+ 1605  curl http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp&image.x=49&image.y=8 
+ 1606  wget http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp&image.x=49&image.y=8 | sed 's/ /\n/g' | grep Rubens > Rua
+ 1607  cat rubens 
+ 1608  curl http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp&image.x=49&image.y=8 | sed 's/ /\n/g' | grep Rubens > rubens
+ 1609  curl --help
+ 1610  curl -d http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp&image.x=49&image.y=8 | sed 's/ /\n/g' | grep Rubens > rubens
+ 1611  cat rubens 
+ 1612  curl -d http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp&image.x=49&image.y=8 | sed 's/ /\n/g' | grep Rua
+ 1613  cat rubens 
+ 1614  curl -d http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp | sed 's/ /\n/g' | grep Rua
+ 1615  curl http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp | sed 's/ /\n/g' | grep Rua
+ 1616  curl --help
+ 1617  curl -x http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp | sed 's/ /\n/g' | grep Rua
+ 1618  curl -w http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp | sed 's/ /\n/g' | grep Rua
+ 1619  curl -w http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp&image.x=49&image.y=8 | sed 's/ /\n/g' | grep Rua
+ 1620  curl -w http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp&image.x=49&image.y=8 | sed 's/ /\n/g' 
+ 1621  curl -w http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp&image.x=49&image.y=8 
+ 1622  wget http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp&image.x=49&image.y=8 | sed 's/ /\n/g' | grep Rua > rua
+ 1623  cat rua
+ 1624  wget http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp&image.x=49&image.y=8 | sed 's/ /\n/g' > rua
+ 1625  wget http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp&image.x=49&image.y=8 > rua
+ 1626  vi curl
+ 1627  mv curl curl.php
+ 1628  mv /var/www/html/
+ 1629  mv curl.php /var/www/html/
+ 1630  cd /var/www/html
+ 1631  vi curl
+ 1632  vi curl.php 
+ 1633  cmod 777 curl.
+ 1634  cmod 777 curl.php 
+ 1635  chmod 777 curl.php 
+ 1636  vi curl.php 
+ 1637  vi curl2.php
+ 1638  apt-get install php5-curl
+ 1639  service php5-fpm restart
+ 1640  cat /etc/php5/apache2/php.ini | grep extension
+ 1641  vi /etc/php5/apache2/php.ini
+ 1642  service apache2 restart
+ 1643  vi curl.php 
+ 1644  vi file.php
+ 1645  curl -L http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp&image.x=49&image.y=8 
+ 1646  curl -L http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp&image.x=49&image.y=8  | grep Rua
+ 1647  curl -L http://www.telelistas.net/templates/resultado_busca.aspx?q=&orgm=0&cod_localidade=11551&atividade=&nome=rubens+ribeiro+filho&uf_busca=sp&image.x=49&image.y=8  | grep Rua > hh
+ 1648  cat hh 
+ 1649  cd /home/rodolfo/
+ 1650  ls -la
+ 1651  cat shell2.sh 
+ 1652  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g' | grep 56C 
+ 1653  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g' | grep 56C > jj
+ 1654  cat jj
+ 1655  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/
+ 1656  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/ | head -2
+ 1657  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/ | head -n 2
+ 1658  man head
+ 1659  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/ | head -1,2
+ 1660  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/ | head -2,2
+ 1661  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/ | head -0,2
+ 1662  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/ | head -0 2
+ 1663  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/ | sed '4p; d'
+ 1664  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/ | sed '2p; d'
+ 1665  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/ | sed '2p; d' | cut -d = -f1
+ 1666  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/ | sed '2p; d' | cut -d = -f2
+ 1667  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/ | sed '2p; d' | cut -d = -f2,4
+ 1668  vi shell2.sh 
+ 1669  curl https://www.facebook.com/rafael890hg | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/ | sed '2p; d' | cut -d = -f2,4
+ 1670  curl https://www.facebook.com/aguareggae | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/ | sed '2p; d' | cut -d = -f2,4
+ 1671  curl https://www.facebook.com/rafael890hg | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/ | sed '2p; d' | cut -d = -f2,4
+ 1672  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/ | sed '2p; d' | cut -d = -f2,4
+ 1673  curl https://www.facebook.com/lenonleite | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/ 
+ 1674  curl https://www.facebook.com/lenonleite | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/v/t1.0-1/c0.0.160.160/p160x160/
+ 1675  curl https://www.facebook.com/aguareggae | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/v/t1.0-1/c0.0.160.160/p160x160/
+ 1676  curl https://www.facebook.com/aguareggae | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/v/t1.0-1/
+ 1677  curl https://www.facebook.com/aguareggae | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/v/t1.0-1/p160
+ 1678  curl https://www.facebook.com/lenonleite | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/v/t1.0-1/p160
+ 1679  curl https://www.facebook.com/aguareggae | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/v/t1.0-1/c0.0.160.160/p160x160/
+ 1680  curl https://www.facebook.com/aguareggae | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/v/t1.0-1/p160x160/
+ 1681  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/ | sed '2p; d' | cut -d = -f2,4
+ 1682  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/ 
+ 1683  cd /var/www/html/
+ 1684  ls
+ 1685  mkdir tarefa10
+ 1686  cd tarefa10/
+ 1687  vi index.php
+ 1688  mkdir 1
+ 1689  mv index.php /var/www/html/tarefa10/1/
+ 1690  cd 1/
+ 1691  ls
+ 1692  vi javascript.js
+ 1693  vi css.css
+ 1694  nano index.php 
+ 1695  vi css.css 
+ 1696  nano css.css 
+ 1697  vi css.css 
+ 1698  nano index.php 
+ 1699  nano css.css 
+ 1700  nano index.php 
+ 1701  date
+ 1702  nano index.php 
+ 1703  cd ..
+ 1704  mkdir 2
+ 1705  cd ..
+ 1706  cd tarefa10/
+ 1707  cd 1
+ 1708  cp index.php /var/www/html/tarefa10/2/
+ 1709  cp javascript.js /var/www/html/tarefa10/2/
+ 1710  cp css.css /var/www/html/tarefa10/2/
+ 1711  cd ..
+ 1712  cd 2
+ 1713  ls
+ 1714  vi javascript.js 
+ 1715  mv javascript.js javascript.js
+ 1716  cp javascript.js javascript.js
+ 1717  clear
+ 1718  ls
+ 1719  whoami
+ 1720  cd /var/www/html/
+ 1721  ls
+ 1722  cd tarefa10/]
+ 1723  cd tarefa10/
+ 1724  ls
+ 1725  cd 1
+ 1726  ls
+ 1727  cd ..
+ 1728  cd 2
+ 1729  ls
+ 1730  cd ..
+ 1731  cd .
+ 1732  cd ..
+ 1733  ls
+ 1734  locate cpf
+ 1735  locate cpf.php
+ 1736  cd cpf
+ 1737  ls
+ 1738  ifconfig
+ 1739  vi cpf.php 
+ 1740  cat cpf.php 
+ 1741  vi cpf.php 
+ 1742  vi css
+ 1743  mv css /var/www/html/cpf/css.css
+ 1744  vi css.css 
+ 1745  vi cpf.php 
+ 1746  vi css.css 
+ 1747  cat cpf.php | grep arr
+ 1748  vi css.css 
+ 1749  vi cpf.php 
+ 1750  vi css.css 
+ 1751  vi cpf.php 
+ 1752  vi css.css 
+ 1753  vi cpf.php 
+ 1754  vi css.css 
+ 1755  vi cpf.php 
+ 1756  vi css.css 
+ 1757  cat cpf.php 
+ 1758  cd /var/www/html
+ 1759  cd tarefa10/
+ 1760  ls
+ 1761  cd 1
+ 1762  ls
+ 1763  cat index.php 
+ 1764  cat index.php | grep css
+ 1765  cd /home/rodolfo/
+ 1766  ls
+ 1767  cat shell.sh 
+ 1768  ssh rcasemiro@ftp.unicep.com.br
+ 1769  cat shell.sh 
+ 1770  cat shell2.sh 
+ 1771  cd /var/www/html/
+ 1772  ls
+ 1773  cd cpf/
+ 1774  ls
+ 1775  cd ..
+ 1776  cd tarefa10/
+ 1777  ls
+ 1778  cd 1
+ 1779  ls
+ 1780  vi index.php 
+ 1781  cat javascript.js 
+ 1782  vi javascript.js 
+ 1783  vi index.php 
+ 1784  vi javascript.js 
+ 1785  vi index.php 
+ 1786  cd /usr
+ 1787  ls
+ 1788  cd bin/
+ 1789  ls
+ 1790  ls - la | grep *.sh
+ 1791  ls -la | grep *.sh
+ 1792  cd ..
+ 1793  cd sbin/
+ 1794  ls -la | grep *.sh
+ 1795  cd /
+ 1796  locate foto_catya.html
+ 1797  cd /var/www/html
+ 1798  ls
+ 1799  cd face/
+ 1800  ls
+ 1801  cat index.sh 
+ 1802  cat index2.sh 
+ 1803  history
+ 1804  ls
+ 1805  ls -la
+ 1806  cd ..
+ 1807  ls -la
+ 1808  cat lenon.txt 
+ 1809  ls
+ 1810  vi lenon.txt 
+ 1811  history
+ 1812  locate /shell2.sh
+ 1813  cd /home/rodolfo/
+ 1814  ls
+ 1815  cat shell2.sh 
+ 1816  cat shell.sh 
+ 1817  cat shell2.sh 
+ 1818  history
+ 1819  cat shell2.sh 
+ 1820  clear
+ 1821  curl https://www.facebook.com/lenonleite?fref=ts | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/ | grep 56C | sed  's/amp;//' | sed 's/^/<img /' | sed 's/"/">/2'
+ 1822  ping 8.8.8.8
+ 1823  curl https://www.facebook.com/renata.bagnato?fref=ts | sed 's/ /\n/g' | grep https:\/\/ | sed  's/amp;//' | sed 's/^/<img /' | sed 's/"/">/2'
+ 1824  curl https://www.facebook.com/renata.bagnato?fref=ts | sed 's/ /\n/g' | grep https:\/\/ | sed  's/amp;//' | sed 's/^/<img /' | sed 's/"/">/2' > /var/www/html/foto_renata2.html
+ 1825  curl https://www.facebook.com/renata.bagnato?fref=ts | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/ | sed  's/amp;//' | sed 's/^/<img /' | sed 's/"/">/2'
+ 1826  curl https://www.facebook.com/renata.bagnato?fref=ts | sed 's/ /\n/g' | grep https://scontent.fsdu2-1.fna.fbcdn.net/
+ 1827  curl https://www.facebook.com/renata.bagnato?fref=ts | sed 's/ /\n/g' | grep https://scontent
+ 1828  curl https://www.facebook.com/igor.marcasso?fref=ts | sed 's/ /\n/g' | grep https://scontent | sed  's/amp;//' | sed 's/^/<img /' | sed 's/"/">/2' > /var/www/html/igor.html
+ 1829  cd /var/www/html/
+ 1830  ls
+ 1831  cd cpf/
+ 1832  ls
+ 1833  ping 8.8.8.8
+ 1834  php --help
+ 1835  cd /home/rodolfo/
+ 1836  ls
+ 1837  cd Down
+ 1838  cd Downloads/
+ 1839  ls -la
+ 1840  cp enviar_xml.php /
+ 1841  cp meus_links.xml /
+ 1842  cd /
+ 1843  ls
+ 1844  cp meus_links.xml /var/
+ 1845  cp enviar_xml.php /var/
+ 1846  cd /var
+ 1847  ls
+ 1848  chmod 777 enviar_xml.php 
+ 1849  chmod meus_links.xml
+ 1850  chmod 777 meus_links.xml 
+ 1851  php enviar_xml.php 
+ 1852  ls
+ 1853  vi enviar_xml.php 
+ 1854  php enviar_xml.php 
+ 1855  vi enviar_xml.php 
+ 1856  php enviar_xml.php 
+ 1857  vi enviar_xml.php 
+ 1858  cp enviar_xml.php enviar_xml2.php 
+ 1859  vi enviar_xml.php 
+ 1860  php enviar_xml.php 
+ 1861  php enviar_xml2.php 
+ 1862  vi enviar_xml2.php 
+ 1863  php enviar_xml2.php 
+ 1864  curl -X POST -H 'Content-type: text/xml'  -d '<XML>data</XML>' https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1865  curl --help
+ 1866  curl -X POST -H 'Content-type: text/xml'  -d @meus_links.xml https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1867  curl -v -X POST -H 'Content-type: text/xml'  -d @meus_links.xml https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1868  curl -v -X POST -H 'Content-type: text/xml'  --data-binary "@meus_links.xml" https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1869  vi meus_links.xml 
+ 1870  curl -v -X POST -H "Content-type: text/xml"  --data-binary "@meus_links.xml" https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1871  curl -v -X POST -H "Content-type: text/xml"  --data-binary "@meus_links.xml" -H "token:tko51fqbp9o54v4soe4siu7unvat7s" https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1872  curl -v -X POST -H "Content-type: text/xml"  --data-binary "@meus_links.xml" -H "x-crfs-token:tko51fqbp9o54v4soe4siu7unvat7s" https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1873  curl -v -X POST -H "Content-type: text/xml"  --data-binary "@meus_links.xml" -H "X-CRFS-Token:tko51fqbp9o54v4soe4siu7unvat7s" https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1874  curl -v -X POST -H "Content-type: text/xml" -H "X-CRFS-Token:tko51fqbp9o54v4soe4siu7unvat7s" https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1875  curl -v -X POST -H "Content-type: text/xml" -H "X-CRjS-Token:tko51fqbp9o54v4soe4siu7unvat7s" https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1876  curl -v -X POST -H "Content-type: text/xml" -H "Token:tko51fqbp9o54v4soe4siu7unvat7s" https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1877  ls
+ 1878  cat meus_links.xml | sed 's/ /\n/g'
+ 1879  clear
+ 1880  ls
+ 1881  vi meus_links.xml 
+ 1882  nano meus_links.xml 
+ 1883  curl -v -X POST --header 'Accept: text/xml" --header 'Authorization:tko51fqbp9o54v4soe4siu7unvat7s' --data-binary "@meus_links.xml" https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1884  curl -v -X POST --header 'Accept: text/xml' --header 'Authorization:tko51fqbp9o54v4soe4siu7unvat7s' --data-binary "@meus_links.xml" https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1885  curl -v -X POST --header 'Accept: text/xml' --header 'Authorization:tko51fqbp9o54v4soe4siu7unvat7s' --data-binary "@meus_links.xml" 'https://scb.ancine.gov.br/scp/v1.0/bilheterias'
+ 1886  curl -X POST --header 'Accept: text/xml' --header 'Authorization:tko51fqbp9o54v4soe4siu7unvat7s' --data-binary "@meus_links.xml" 'https://scb.ancine.gov.br/scp/v1.0/bilheterias'
+ 1887  clear
+ 1888  curl -X POST --header 'Accept: text/xml' --header 'Authorization:tko51fqbp9o54v4soe4siu7unvat7s' --data-binary 'https://scb.ancine.gov.br/scp/v1.0/bilheterias'
+ 1889  curl -X POST --header 'Accept: application/json' --header 'Authorization:tko51fqbp9o54v4soe4siu7unvat7s' 'https://scb.ancine.gov.br/scp/v1.0/bilheterias'
+ 1890  curl -X POST --header 'Accept: application/json' --header 'Authorization:tko51fqbp9o54v4soe4siu7unvat7s' --data-binary "@json.json" 'https://scb.ancine.gov.br/scp/v1.0/bilheterias'
+ 1891  curl -X POST  --header 'Authorization:tko51fqbp9o54v4soe4siu7unvat7s' --data-binary "@json.json" 'https://scb.ancine.gov.br/scp/v1.0/bilheterias'
+ 1892  curl -v -X POST -H "Content-type: text/xml" -H "Authirization:tko51fqbp9o54v4soe4siu7unvat7s" https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1893  curl -v -X POST -H "Content-type: text/xml" -H "Authorization:tko51fqbp9o54v4soe4siu7unvat7s" https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1894  curl -X POST -H "Content-type: text/xml" -H "Authorization:tko51fqbp9o54v4soe4siu7unvat7s" https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1895  curl -X POST -H "Authorization:tko51fqbp9o54v4soe4siu7unvat7s" https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1896  curl --help | grep SSL
+ 1897  curl -2 -X POST -H "Authorization:tko51fqbp9o54v4soe4siu7unvat7s" https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1898  curl --help
+ 1899  curl -E -X POST -H "Authorization:tko51fqbp9o54v4soe4siu7unvat7s" https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1900  curl -E -2 -X POST -H "Authorization:tko51fqbp9o54v4soe4siu7unvat7s" https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1901  curl -k -X POST -H "Authorization:tko51fqbp9o54v4soe4siu7unvat7s" https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1902  curl -k -X POST -H "Authorization:tko51fqbp9o54v4soe4siu7unvat7s" http://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1903  curl -k -X POST -H "Authorization:tko51fqbp9o54v4soe4siu7unvat7s" https://scb.ancine.gov.br/scp/v1.0/bilheterias
+ 1904  curl -k -X POST -H "Authorization:tko51fqbp9o54v4soe4siu7unvat7s" https://scb.ancine.gov.br/scp/v1.0/bilheterias --data-binary "@meus_links.xml"
+ 1905  curl -X POST --header 'Accept: text/xml' --header 'Authorization:tko51fqbp9o54v4soe4siu7unvat7s' --data-binary 'https://scb.ancine.gov.br/scp/v1.0/bilheterias'
+ 1906  curl -X POST --header 'Accept: text/xml' --header 'Authorization:tko51fqbp9o54v4soe4siu7unvat7s' --data-binary "@meus_links.xml" 'https://scb.ancine.gov.br/scp/v1.0/bilheterias'
+ 1907  curl -X POST --header 'text/xml' --header 'Authorization:tko51fqbp9o54v4soe4siu7unvat7s' --data-binary "@meus_links.xml" 'https://scb.ancine.gov.br/scp/v1.0/bilheterias'
+ 1908  curl -X POST  --header 'Authorization:tko51fqbp9o54v4soe4siu7unvat7s' --data-binary "@meus_links.xml" 'https://scb.ancine.gov.br/scp/v1.0/bilheterias'
+ 1909  curl -X POST -v --header 'Authorization:tko51fqbp9o54v4soe4siu7unvat7s' --data-binary "@meus_links.xml" 'https://scb.ancine.gov.br/scp/v1.0/bilheterias'
+ 1910  curl -X POST -v --header 'Authorization:tko51fqbp9o54v4soe4siu7unvat7s' --data-binary "@teste.json" 'https://scb.ancine.gov.br/scp/v1.0/bilheterias'
+ 1911  curl -X POST --header "Content-Type:text/xml;charset=UTF-8" --data @meus_links.xml https://scb.ancine.gov.br/scb/v1.0/bilheterias
+ 1912  clear
+ 1913  ls
+ 1914  mv teste.json teste.xml
+ 1915  chmod 777 teste.xml 
+ 1916  curl -X POST --header "Content-Type:text/xml;charset=UTF-8" --data @teste.xml https://scb.ancine.gov.br/scb/v1.0/bilheterias
+ 1917  cat teste.xml | grep tipo
+ 1918  cat teste.xml | grep -n tipo
+ 1919  curl -X POST --header "Content-Type:xml;charset=UTF-8" --data @teste.xml https://scb.ancine.gov.br/scb/v1.0/bilheterias
+ 1920  clear
+ 1921  curl -X POST --header "Content-Type:text/xml;charset=UTF-8" --data @teste.xml https://scb.ancine.gov.br/scb/v1.0/bilheterias
+ 1922  cat teste.xml | grep -n tipo
+ 1923  vi teste.xml 
+ 1924  curl -X POST --header "Content-Type:text/xml;charset=UTF-8" --data @teste.xml https://scb.ancine.gov.br/scb/v1.0/bilheterias
+ 1925  clear
+ 1926  curl -X POST --header "Content-Type:application/xml;charset=UTF-8" --data @teste.xml https://scb.ancine.gov.br/scb/v1.0/bilheterias
+ 1927  clear
+ 1928  curl -X POST --header "Content-Type:application/xml;charset=UTF-8" --data @teste.xml https://scb.ancine.gov.br/scb/v1.0/bilheterias --header 'Authorization:tko51fqbp9o54v4soe4siu7unvat7s'
+ 1929  clear
+ 1930  curl -X POST --header "Content-Type:application/xml;charset=UTF-8" --data @teste.xml https://scb.ancine.gov.br/scb/v1.0/bilheterias --header 'Authorization:tko51fqbp9o54v4soe4siu7unvat7s'
+ 1931  clear
+ 1932  curl -X POST --header ""Content-Type: application/json"," --data @teste.xml https://scb.ancine.gov.br/scb/v1.0/bilheterias --header 'Authorization:tko51fqbp9o54v4soe4siu7unvat7s'
+ 1933  "POST /scb/v1.0/bilheterias HTTP/1.1",
+ 1934  curl -X POST --header ""Content-Type: application/json"," --data @teste.xml https://scb.ancine.gov.br/scb/v1.0/bilheterias --header 'Authorization:tko51fqbp9o54v4soe4siu7unvat7s'
+ 1935  "POST /scb/v1.0/bilheterias HTTP/1.1",
+ 1936  curl -X POST --header "Content-Type: application/json,POST /scb/v1.0/bilheterias HTTP/1.1,Authorization: tko51fqbp9o54v4soe4siu7unvat7s" --data @teste.xml https://scb.ancine.gov.br/scb/v1.0/bilheterias
+ 1937  clear
+ 1938  curl -X POST --header "Content-Type: application/json;POST /scb/v1.0/bilheterias HTTP/1.1;Authorization: tko51fqbp9o54v4soe4siu7unvat7s" --data @teste.xml https://scb.ancine.gov.br/scb/v1.0/bilheterias
+ 1939  clear
+ 1940  ls
+ 1941  curl -X POST --header "Content-Type: application/json;POST /scb/v1.0/bilheterias HTTP/1.1;Authorization: tko51fqbp9o54v4soe4siu7unvat7s" --data @json.json https://scb.ancine.gov.br/scb/v1.0/bilheterias
+ 1942  cat teste.xml 
+ 1943  cat json.json 
+ 1944  clear
+ 1945  curl -X POST --header "Content-Type: application/json;POST /scb/v1.0/bilheterias HTTP/1.1;Authorization: tko51fqbp9o54v4soe4siu7unvat7s" --data @json.json https://scb.ancine.gov.br/scb/v1.0/bilheterias
+ 1946  clear
+ 1947  curl -X POST --header "Content-Type: application/xml;POST /scb/v1.0/bilheterias HTTP/1.1;Authorization: tko51fqbp9o54v4soe4siu7unvat7s" --data @teste.xml https://scb.ancine.gov.br/scb/v1.0/bilheterias
+ 1948  clear
+ 1949  curl -X POST --header "Content-Type: application/json;POST https://scb.ancine.gov.br/scb/v1.0/bilheterias HTTP/1.1;Authorization: tko51fqbp9o54v4soe4siu7unvat7s" --data @json.json https://scb.ancine.gov.br/scb/v1.0/bilheterias
+ 1950  clear
+ 1951  curl -X POST --header "Content-Type: application/json;Authorization: tko51fqbp9o54v4soe4siu7unvat7s" --data @json.json https://scb.ancine.gov.br/scb/v1.0/bilheterias
+ 1952  clear
+ 1953  curl -X POST --header "Content-Type: application/json;Authorization: tko51fqbp9o54v4soe4siu7unvat7s" --data @json.json https://scb.ancine.gov.br/scb/v1.0/bilheterias > /var/www/html/curlao.html
+ 1954  ifconfig
+ 1955  vi /etc/apache2/sites-available/000-default.conf 
+ 1956  service apache2 restart
+ 1957  curl localhost
+ 1958  cd /var/www/html
+ 1959  ls
+ 1960  curl -X POST --header "Content-Type: application/json;Authorization: tko51fqbp9o54v4soe4siu7unvat7s" --data @json.json http://scb.ancine.gov.br/scb/v1.0/bilheterias 
+ 1961  clear
+ 1962  curl -X POST --header "Content-Type: application/json;Authorization: tko51fqbp9o54v4soe4siu7unvat7s" --data @json.json https://scb.ancine.gov.br/scb/v1.0/bilheterias 
+ 1963  clear
+ 1964  curl -X POST --header "Content-Type: application/json;Authorization: tko51fqbp9o54v4soe4siu7unvat7s" --data @json.json https://scb.ancine.gov.br/scb/v1.0/bilheterias 
+ 1965  clear
+ 1966  curl -X POST --header "Content-Type: application/json;Authorization: tko51fqbp9o54v4soe4siu7unvat7s" --data @json.json http://scb.ancine.gov.br/scb/v1.0/bilheterias 
+ 1967  clear
+ 1968  curl -X POST --header "Content-Type: application/json;Authorization: Basic tko51fqbp9o54v4soe4siu7unvatBasic7s" --data @json.json http://scb.ancine.gov.br/scb/v1.0/bilheterias 
+ 1969  clear
+ 1970  echo "tko51fqbp9o54v4soe4siu7unvat7s" | base64 --decode
+ 1971  curl -X POST --header "Content-Type: application/json;Authorization: Basic tko51fqbp9o54v4soe4siu7unvatBasic7s" --data @json.json http://scb.ancine.gov.br/scb/v1.0/bilheterias 
+ 1972  clear
+ 1973  curl --header "Content-Type: application/json;Authorization: Basic tko51fqbp9o54v4soe4siu7unvatBasic7s" --data @json.json http://scb.ancine.gov.br/scb/v1.0/bilheterias 
+ 1974  clear
+ 1975  curl -X POST --header "Content-Type: application/json;Authorization: Basic tko51fqbp9o54v4soe4siu7unvatBasic7s" --data @json.json http://scb.ancine.gov.br/scb/v1.0/bilheterias 
+ 1976  clear
+ 1977  cd /
+ 1978  cd /var
+ 1979  ls
+ 1980  clear
+ 1981  curl -X POST --header "Content-Type: application/json;Authorization: Basic tko51fqbp9o54v4soe4siu7unvatBasic7s" --data @json.json http://scb.ancine.gov.br/scb/v1.0/bilheterias 
+ 1982  clear
+ 1983  curl -X POST --header "Content-Type: application/json;Authorization: Basic tko51fqbp9o54v4soe4siu7unvatBasic7s" --data @json.json http://scb.ancine.gov.br/scb/v1.0/bilheterias 
+ 1984  curl -X POST --header "Content-Type: application/json;Authorization: Basic tko51fqbp9o54v4soe4siu7unvatBasic7s" --data @json.json http://scb.ancine.gov.br/scb/v1.0/bilheterias clear
+ 1985  clear
+ 1986  curl -X POST --header "Content-Type: application/json;Authorization: Basic tko51fqbp9o54v4soe4siu7unvatBasic7s" --data @json.json http://scb.ancine.gov.br/scb/v1.0/bilheterias > /var/www/html/curlao.html 
+ 1987  curl -X POST --header "Content-Type: application/json;Authorization: Basic tko51fqbp9o54v4soe4siu7unvatBasic7s" --data @json.json http://scb.ancine.gov.br/scb/v1.0/bilheterias 
+ 1988  clear
+ 1989  curl -X POST --header "Content-Type: application/xml;Authorization: Basic tko51fqbp9o54v4soe4siu7unvatBasic7s" --data @meus_links.xml http://scb.ancine.gov.br/scb/v1.0/bilheterias 
+ 1990  pwd
+ 1991  ls
+ 1992  curl -X POST --header "Content-Type: application/xml;Authorization: Basic tko51fqbp9o54v4soe4siu7unvatBasic7s" --data @meus_links.xml https://scb.ancine.gov.br/scb/v1.0/bilheterias 
+ 1993  curl -X POST --header "Content-Type: -v application/xml;Authorization: Basic tko51fqbp9o54v4soe4siu7unvatBasic7s" --data @meus_links.xml https://scb.ancine.gov.br/scb/v1.0/bilheterias 
+ 1994  clear
+ 1995  curl -X POST  -v --header "Content-Type: application/xml;Authorization: Basic tko51fqbp9o54v4soe4siu7unvatBasic7s" --data @meus_links.xml https://scb.ancine.gov.br/scb/v1.0/bilheterias 
+ 1996  curl -X POST  --header "Content-Type: application/xml;Authorization: Basic tko51fqbp9o54v4soe4siu7unvatBasic7s" --data @meus_links.xml https://scb.ancine.gov.br/scb/v1.0/bilheterias 
+ 1997  clear
+ 1998  ifconfig
+ 1999  ping 8.8.8.8
+ 2000  exit
+ 2001  clear
+ 2002  cd /var/www/html
+ 2003  çs
+ 2004  ls
+ 2005  cd cpf/
+ 2006  ls
+ 2007  service apache2 status
+ 2008  vi cpf.php 
+ 2009  nano cpf.php 
+ 2010  ls
+ 2011  vi css.css 
+ 2012  cd ..
+ 2013  ls
+ 2014  mkdir array
+ 2015  cd array/
+ 2016  vi index.php
+ 2017  vi cidades
+ 2018  cat cidades | cut -d -f 1
+ 2019  cat cidades | cut -d -f1
+ 2020  cat cidades | cut -d '' -f1
+ 2021  cat cidades | cut -d '' -f2
+ 2022  cat cidades | cut -d ' ' -f1
+ 2023  cat cidades | cut -d ' ' -f1 | sed 's/^/<img'
+ 2024  cat cidades | cut -d ' ' -f1 | sed 's/^/<img /'
+ 2025  cat cidades | cut -d ' ' -f1 | sed 's/^/' /'
+ 2026  cat cidades | cut -d ' ' -f1 | sed 's/^/'/'
+ 2027  cat cidades | cut -d ' ' -f1 | sed 's/^/"/'
+ 2028  cat index.php 
+ 2029  cat cidades | cut -d ' ' -f1 | sed 's/^/"/'
+ 2030  cat cidades | cut -d ' ' -f1 | sed 's/^/"'"/'
+ 2031  cat cidades | cut -d ' ' -f1 | sed 's/^/ /'
+ 2032  cat cidades | cut -d ' ' -f1 | sed 's/^/"/'
+ 2033  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | sed 's/^/"/2'
+ 2034  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' 
+ 2035  cat cidades | cut -d ' ' -f1 | sed 's/^/' 
+ 2036  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' 
+ 2037  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | sed 's/^/"/2'
+ 2038  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | sed 's/^/44/2'
+ 2039  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | sed 's/"/">/2'
+ 2040  cat cidades | cut -d ' ' -f1 | sed 's/^/"/'
+ 2041  cat cidades | cut -d ' ' -f1 | sed 's/^/8/'
+ 2042  cat cidades | cut -d ' ' -f1 | sed 's/^/"/'
+ 2043  cat cidades | cut -d ' ' -f1 | sed 's/^/",/'
+ 2044  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |sed 's/"/">/2'
+ 2045  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | sed 's/"/" /2'
+ 2046  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | sed 's/"/"7/2'
+ 2047  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |sed 's/7/">/2'
+ 2048  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |sed 's/7/",/2'
+ 2049  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |sed 's/ /",/2'
+ 2050  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |sed 's/5/",/2'
+ 2051  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |sed 's/7/",/2'
+ 2052  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |sed 's/1/",/2'
+ 2053  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |sed 's/" "/",/2'
+ 2054  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |sed 's/''/",/2'
+ 2055  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |sed 's/1/",/2'
+ 2056  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | sed 's/$/",/2'
+ 2057  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | sed 'y/ /",/2'
+ 2058  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |sed 's/1/",/2'
+ 2059* cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |sed 'y/ /_/",'
+ 2060  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |sed 'y/ /",/2'
+ 2061  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |sed 's/1/",/2'
+ 2062  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |sed 's/ /",/2'
+ 2063  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |sed 's/^$/",/2'
+ 2064  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |sed 's/^$/d/",/2'
+ 2065  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |sed '/^$/d/",/2'
+ 2066  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |sed '^$/d/",/2'
+ 2067  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | sed '/^$/d'
+ 2068  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | sed 's/"//^$/d/2'  
+ 2069  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | sed 's/"/^$/d/2'  
+ 2070  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | sed 's/[\s]+/\t/' 
+ 2071  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | sed -e 's/\ \+/\t/g'
+ 2072  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | tr ' ' '_'
+ 2073  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | tr '/n' '_'
+ 2074  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | tr '\n' '_'
+ 2075  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | tr '\n' ','
+ 2076  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | tr '\n' '",'
+ 2077  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | tr '\n' ' ",'
+ 2078  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | tr '\n' ' ,'
+ 2079  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' | tr '\d' ' ,'
+ 2080  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |  tr [:space:] ‘\t’
+ 2081  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |  tr [:space:] ‘",’
+ 2082  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |  tr [:space:] '",'
+ 2083  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |  tr [:space:] ',"'
+ 2084  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |  tr [:space:] ',"' > logs
+ 2085  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |  tr [:space:] ',"' 
+ 2086  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |  tr [:space:] ',",' 
+ 2087  cat cidades | cut -d ' ' -f1 | sed 's/^/"/' |  tr [:space:] ',"' 
+ 2088  cat cidades | cut -d ' ' -f1 | sed 's/^/",/' |  tr [:space:] ',"' 
+ 2089  cat cidades | cut -d ' ' -f1 | sed 's/^/",/' |  tr [:space:] '"' 
+ 2090  cat cidades | cut -d ' ' -f1 | sed 's/^/",/' |  tr [:space:] '' 
+ 2091  cat cidades | cut -d ' ' -f1 | sed 's/^/",/' |  tr [:space:] ' ' 
+ 2092  cat cidades | cut -d ' ' -f1 | sed 's/^/",/' |  tr [:space:] ',"' 
+ 2093  cat cidades | cut -d ' ' -f1 | sed 's/^/",/' |  tr [:space:] '*' 
+ 2094  clear
+ 2095  cat cidades | cut -d ' ' -f1 | sed 's/^/",/' |  tr [:space:] '*' 
+ 2096  clear
+ 2097  cat cidades | cut -d ' ' -f1 | sed 's/^/",/' |  tr [:space:] '*' 
+ 2098  cat cidades | cut -d ' ' -f1 | sed 's/^/",/' |  tr [:space:] ' ' 
+ 2099  cat cidades | cut -d ' ' -f1 | sed 's/^/",/' |  tr [:space:] '' 
+ 2100  cat cidades | cut -d ' ' -f1 | sed 's/^/",/' |  tr [:space:] ' ' 
+ 2101  clear]
+ 2102  clear
+ 2103  cat cidades | cut -d ' ' -f1 | sed 's/^/",/' |  tr [:space:] ' ' 
+ 2104  clear
+ 2105  cat cidades | cut -d ' ' -f1 | sed 's/^/",/' |  tr [:space:] ' ' 
+ 2106  clear
+ 2107  cat cidades | cut -d ' ' -f1 | sed 's/^/","/' |  tr [:space:] ' ' 
+ 2108  clear
+ 2109  cat cidades | cut -d ' ' -f1 | sed 's/^/","/' |  tr [:space:] ' '  > logs2
+ 2110  cat cidades | cut -d ' ' -f1 | sed 's/^/","/' |  tr [:space:] ' ' 
+ 2111  cat cidades 
+ 2112  cat cidades | cut -d ' ' -f1 | sed 's/^/","/' |  tr [:space:] ' ' 
+ 2113  vi index.php 
+ 2114  cat cidades | cut -d ' ' -f1 | sed 's/^/\","/' |  tr [:space:] ' ' 
+ 2115  cat cidades | cut -d ' ' -f1 | sed 's/^/\',"/' |  tr [:space:] ' ' 
+ 2116  cat cidades | cut -d ' ' -f1 | sed 's/^/\,"/' |  tr [:space:] ' ' 
+ 2117  clear
+ 2118  cat cidades | cut -d ' ' -f1 | sed 's/^/\\',"/' |  tr [:space:] ' ' 
+
+
+ 2119  cat cidades | cut -d ' ' -f1 | sed 's/^/\","/' |  tr [:space:] ' ' 
+ 2120  cat cidades | cut -d ' ' -f1 | sed 's/^/\","/' |  tr [:space:] '\'' 
+ 2121  cat cidades | cut -d ' ' -f1 | sed 's/^/\","/' |  tr [:space:] ' ' 
+ 2122  clear
+ 2123  cat cidades | cut -d ' ' -f1 | sed 's/^/\","/' |  tr [:space:] ' ' | sed 's/"/'"''/2"
+ 2124  cat cidades | cut -d ' ' -f1 | sed 's/^/\","/' |  tr [:space:] ' ' | sed 's/"/'"''/"
+ 2125  cat cidades | cut -d ' ' -f1 | sed 's/^/\","/' |  tr [:space:] ' ' | sed 's/"/'"''"
+ 2126  cat cidades | cut -d ' ' -f1 | sed 's/^/\","/' |  tr [:space:] ' ' | sed 's/"/'"'"
+ 2127  cat cidades | cut -d ' ' -f1 | sed 's/^/\","/' |  tr [:space:] ' ' | sed 's/"/'""
+ 2128  cat cidades | cut -d ' ' -f1 | sed 's/^/\","/' |  tr [:space:] ' ' | sed 's/"/'"
+ 2129  cat cidades | cut -d ' ' -f1 | sed 's/^/\","/' |  tr [:space:] ' ' | sed 's/"/'"''/2"
+ 2130  cat cidades | cut -d ' ' -f1 | sed 's/"/'"''/2" | sed 's/^/\","/' |  tr [:space:] ' ' 
+ 2131  cat cidades | cut -d ' ' -f1 | sed 's/"/'"''/1" | sed 's/^/\","/' |  tr [:space:] ' ' 
+ 2132  cat cidades | cut -d ' ' -f1 | sed 's/"/'"'' " | sed 's/^/\","/' |  tr [:space:] ' ' 
+ 2133  cat cidades | cut -d ' ' -f1 | sed 's/"/'"''/1" | sed 's/^/\","/' |  tr [:space:] ' ' 
+ 2134  cat cidades | cut -d ' ' -f1  | sed 's/^/\","/' |  tr [:space:] ' ' 
+ 2135  cat cidades | cut -d ' ' -f1  | sed 's/^/\","/' |  tr [:space:] ' ' | sed 's/ /\n/g'
+ 2136  cat cidades | cut -d ' ' -f1  | sed 's/^/\","/' |  sed 's/ /\n/g' | tr [:space:] ' ' 
+ 2137  cat cidades | cut -d ' ' -f1  | sed 's/^/,"/' |  sed 's/ /\n/g' | tr [:space:] ' ' 
+ 2138  clear
+ 2139  cat cidades | cut -d ' ' -f1  | sed 's/^/,"/' |  sed 's/ /\n/g' | tr [:space:] ' ' 
+ 2140  clear
+ 2141  cat cidades | cut -d ' ' -f1  | sed 's/^/%\',"/' |  sed 's/ /\n/g' | tr [:space:] ' ' 
+ 2142  cat cidades | cut -d ' ' -f1  | sed 's/^/\%\',"/' |  sed 's/ /\n/g' | tr [:space:] ' ' 
+ 2143  cat cidades | cut -d ' ' -f1  | sed 's/^/\#*\,"/' |  sed 's/ /\n/g' | tr [:space:] ' ' 
+ 2144  clear
+ 2145  cat cidades | cut -d ' ' -f1  | sed 's/^/\#*\,"/' |  sed 's/ /\n/g' | tr [:space:] ' ' 
+ 2146  clear
+ 2147  cat cidades | cut -d ' ' -f1  | sed 's/^/\'\,"/' |  sed 's/ /\n/g' | tr [:space:] ' ' 
+
+ 2148  cat cidades | cut -d ' ' -f1  | sed 's/^/\#*\,"/' |  sed 's/ /\n/g' | tr [:space:] ' ' 
+ 2149  clear
+ 2150  cat cidades | cut -d ' ' -f1  | sed 's/^/\#*\,"/' |  sed 's/ /\n/g' | tr [:space:] ' ' 
+ 2151  clear
+ 2152  cat cidades | cut -d ' ' -f1  | sed 's/^/\",#*\/' |  sed 's/ /\n/g' | tr [:space:] ' ' 
+ 2153  cat cidades | cut -d ' ' -f1  | sed 's/^/\",\'/' |  sed 's/ /\n/g' | tr [:space:] ' ' 
+ 2154  cat cidades | cut -d ' ' -f1  | sed 's/^/\",'\/' |  sed 's/ /\n/g' | tr [:space:] ' ' 
+ 2155  cat cidades | cut -d ' ' -f1  | sed 's/^/\","/' |  sed 's/ /\n/g' | tr [:space:] ' ' 
+ 2156  cat cidades | cut -d ' ' -f1  | sed 's/^/\'"'"',"/' |  sed 's/ /\n/g' | tr [:space:] ' ' 
+ 2157  clear
+ 2158  cat cidades | cut -d ' ' -f1  | sed 's/^/\'"'"',"/' |  sed 's/ /\n/g' | tr [:space:] ' ' 
+ 2159  cat cidades | cut -d ' ' -f1  | sed 's/^/\'"'"','"'"'/' |  sed 's/ /\n/g' | tr [:space:] ' ' 
+ 2160  clear
+ 2161  cat cidades | cut -d ' ' -f1  | sed 's/^/\'"'"','"'"'/' |  sed 's/ /\n/g' | tr [:space:] ' ' 
+ 2162  history > logs4
