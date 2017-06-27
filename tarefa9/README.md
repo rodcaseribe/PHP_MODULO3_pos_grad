@@ -1,0 +1,1 @@
+1.Usando qualquer base de dados que você disponha no momento, crie uma instrução SQL que pesquise essa base de dados e a transforme em uma view. Envie as telas que possam ilustrar a criação da view em um arquivo compactado.
